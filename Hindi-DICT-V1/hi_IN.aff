@@ -1,0 +1,23 @@
+﻿SET UTF-8
+# Hindi Spellcheking Dictionary in Hunspell format - SPELLCHECKERVERSION
+# Last Update by Raajita.B on SPELLCHECKERDATE
+# Files available from https://github.com/Raaji-99/Hindi-Thesarus
+#
+TRY ਼ਾਿੀੁੂੇੈੋੌ੍ਂਅਆਇਈਉਊਏਐਓਔਕਖਗਘਙਚਛਜਝਞਟਠਡਢਣਤਥਦਧਨਪਫਬਭਮਯਰਲਲ਼ਵਸ਼ਸਹਖ਼ਗ਼ਜ਼ੜਫ਼ੲੳੴ
+KEY ਇਈ|ਉਊ|ਅਆ|ਿੀ|ੁੂ|ੇੈ|ੋੌ|ਖਖ਼|ਗਗ਼|ਜਜ਼|ਫਫ਼|ਲਲ਼|ਸ਼ਸਂ|ਂੰ|
+MAXNGRAMSUGS 10
+MAXDIFF 5
+
+WORDCHARS ੦੧੨੩੪੫੬੭੮੯!"#%&'()*+,-./0123456789:;<=>?@[\]^_{|}~ ×÷।॥
+
+# convert internally for checking spelling
+ICONV 2
+ICONV । .
+ICONV ॥ .
+
+# offer replacement as suggestion
+REP 99
+REP ਿ ੀ
+REP ੀ ਿ
+
+

@@ -1,0 +1,12 @@
+HINDI SPELLCHECKER FOR OPENOFFICE 
+Version 1.1.1.1
+Last Update on Thu Nov 10 07:24:32 2022 +0530
+
+Authors: Raajita.B <bhamidipatyraajita81@gmail.com>
+
+This spellchecker for OpenOffice is based on HIndi Hunspell files by Raajita.B.
+
+Project site: https://github.com/Raaji-99/Hindi-Thesarus/Hindispellchecker
+
+This spellchecker is released with  GPLv3 license
+Visit http://www.gnu.org/licenses/ for more information
